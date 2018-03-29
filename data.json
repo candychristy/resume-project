@@ -1,0 +1,34 @@
+{
+  "basics":{
+"photo":"profile.jpg",
+"name":"christy",
+"email":"asharaj42862gmail.com",
+"mobile":"7989539607",
+"address":"chennai"
+},
+    "career":{
+      "info":"A person is pretty much a computer program written by reward chemicals in your brain. "
+    },
+"education":[
+  {
+    "course":"mca",
+    "college":"Svpcet,Puttur",
+    "data":["2017-2020","89%"]
+  },
+  {
+    "course":"B.SC(computers)",
+    "college":"Govy degree college,Nagari",
+    "data":["2014-2017","78%"]
+  },
+  {
+    "course":"Intermediate(mpccs)",
+    "college":"Kabis school.Pandur(TN)",
+    "data":["2012-2014","65"]
+  },
+  {
+    "course":"Sslc",
+    "college":"Govt school,ppbudur(TN)",
+    "data":["2012","86%"]
+  }
+]
+}
